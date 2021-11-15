@@ -4,7 +4,7 @@
 Using javascript and html to create a webpage that displays and filters data on UFO's
 
 ## Analysis and Results
-To use this webpage one most simply enter data into the search boxes on the left hand side, when new data is entered into any of the boxes, the data in the right table will
+To use this webpage one must simply enter data into the search boxes on the left hand side, when new data is entered into any of the boxes, the data in the right table will
 be instantly filtered for the user to see.
 
 The search box is as seen in the image below
